@@ -12,4 +12,4 @@
 1. 在Server Group Quota選擇 「DSC 2015 R 語言資料分析上手課程」與[basic ...]，點選Select。![](choose_server_quota.png)
 1. 稍候片刻，應有灰色畫面跳出，選擇Reconnect。![](reconnect.png)
 1. 輸入使用者名稱密碼，按Sign in。![](enter_pwd.png)
-1. 恭喜您，成為一位快樂的R語言使用者！可以鍵入你的第一個指令：`library(DSC2015R)` ![](happy_r_user.png)
+1. 恭喜您，成為一位快樂的R語言使用者！可以鍵入您的第一個指令：`library(DSC2015R)` ![](happy_r_user.png)
